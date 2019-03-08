@@ -6,5 +6,5 @@ A RestAPI service using
 * @RESTController
 * JDBC for accessing PostgresSQL database
 
-## Aouther
+## Auther
 Ofir Abramovich
