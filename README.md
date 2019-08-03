@@ -7,10 +7,10 @@ A RestAPI service using
 * JDBC for accessing PostgresSQL database
 
 ## snapshots
-![login_page](https://ibb.co/QNYTT1K)
-![overview_page](https://ibb.co/rkRSrtm)
-![recording_tab](https://ibb.co/6WBsZ5t)
-![users_page](https://ibb.co/47xn8jh)
+![login_page](https://i.ibb.co/NjWJJHy/login.png)
+![overview_tab](https://i.ibb.co/Y2FMsW3/overview.png)
+![recording_tab](https://i.ibb.co/gRVg7CW/country.png)
+![users_tab](https://i.ibb.co/Y3GFctH/users.png)
 
 ## Auther
 Ofir Abramovich
