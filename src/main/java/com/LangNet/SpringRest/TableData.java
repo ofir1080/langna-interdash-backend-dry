@@ -262,7 +262,7 @@ public class TableData {
                             rs.getInt(4)));
 
         } catch (DataAccessException e) {
-            log.error(e.getMessage(), e);
+//            log.error(e.getMessage(), e);
         }
         return table;
     }
